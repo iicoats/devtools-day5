@@ -36,7 +36,7 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 2:
 
-- Image too large, no height set, 
+- Image too large, no height set,
 
 #### Problem 3:
 
@@ -44,7 +44,7 @@ jquery makes the doc too slow
 
 #### Problem 5:
 
-Important element should not be used.  It is rarely used anymore due to overrides with other css.
+Important element should not be used. It is rarely used anymore due to overrides with other css.
 
 #### Problem 6:
 
@@ -69,8 +69,6 @@ main thread blocked
 #### Problem 11:
 
 $("body") code too big
-
-
 
 ### Step 4: Reflect
 
