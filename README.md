@@ -32,13 +32,45 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 1:
 
-- Solution: [Your proposed solution here]
+- Solution: no problem
 
 #### Problem 2:
 
-- Solution: [Your proposed solution here]
+- Image too large, no height set, 
 
-[Continue with solutions for the remaining problems]
+#### Problem 3:
+
+jquery makes the doc too slow
+
+#### Problem 5:
+
+Important element should not be used.  It is rarely used anymore due to overrides with other css.
+
+#### Problem 6:
+
+unused class names
+
+#### Problem 7:
+
+image too big
+
+#### Problem 8:
+
+selectors overlyb selective; just use h2
+
+#### Problem 9
+
+takes too long to load
+
+#### Problem 10:
+
+main thread blocked
+
+#### Problem 11:
+
+$("body") code too big
+
+
 
 ### Step 4: Reflect
 

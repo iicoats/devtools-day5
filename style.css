@@ -1,6 +1,6 @@
 /* Problem 5: */
 body {
-  font-family: Arial, sans-serif !important;
+  font-family: sans-serif !important;
   margin: 0 !important;
   padding: 0 !important;
   background-color: #f0f0f0 !important;
@@ -23,8 +23,8 @@ h1 {
 .unused-class-1,
 .unused-class-2,
 .unused-class-3 {
-  color: blue;
-  background-color: black;
+  color: #0000ff;
+  background-color: rgb(0, 0, 0);
 }
 
 /*Problem 7:  */
